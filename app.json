@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GrubGrove",
-    "slug": "GrubGrove",
+    "name": "FoodGrub",
+    "slug": "FoodGrub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
