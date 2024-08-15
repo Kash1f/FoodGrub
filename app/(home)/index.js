@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import Carousel from '../../components/Carousel';
 
 const index = () => {
 
@@ -79,13 +80,16 @@ const index = () => {
           }
         }
       };
+
   return (
     <View>
       <Text>index</Text>
+
+      <Carousel/>
     </View>
   )
 }
 
-export default index
+export default index;
 
 const styles = StyleSheet.create({})
